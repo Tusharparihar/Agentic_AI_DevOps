@@ -1,0 +1,6 @@
+langchain-ollama  # Package that can create AI agents with Ollama.
+ollama  # Application that can host LLM.
+langgraph # Tech behind connecting LLM and Tools.
+langchain  # Framework for building LLM applications.
+fastmcp # FastMCP is a framework for building multi-agent systems.
+langchain-mcp-adapters # Adapter to use FastMCP with LangChain.
