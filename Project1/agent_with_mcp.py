@@ -14,7 +14,6 @@ These are the things you can do:
 3. You can tell about the solution in short (what to do to fix it) .
 
 """
-
 async def main():
 
     #this brings all the tools from mcp server.

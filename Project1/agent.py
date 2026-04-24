@@ -4,7 +4,6 @@ from langchain_core.tools import tool
 from langchain.agents import create_agent
 import subprocess
 
-
 SYSTEM_PROMPT = """
 You are a docker Expert. You can expalain things 1-3 line max. 
 You don't overthink, hallucinate, or keep reasoning. You reaseon and act accordingly.
